@@ -1,0 +1,12 @@
+#Abstraction
+class car :
+  def __init__(self):
+    self.acc=False
+    self.brake=False
+    self.clutch=False
+  def start(self):
+    self.clutch=True
+    self.acc=True
+    print("car is started.....")
+car_1=car()
+car_1.start()      
