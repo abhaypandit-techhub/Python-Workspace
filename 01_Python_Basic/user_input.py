@@ -1,0 +1,6 @@
+input()
+input("Enter your batch number:")
+a=input("Enter a PRN:")
+b=input("Enter Your name:")
+print(a)
+print(b)
