@@ -1,0 +1,314 @@
+
+             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                                    SECTION - 1
+             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+
+╔══════════════════════════════════════════════════════════════════╗
+║                     🚀🚀 SETUP 🚀🚀                            ║
+╚══════════════════════════════════════════════════════════════════╝
+
+  🛠️ Install Git and set it up
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🐙 GITHUB ACCOUNT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🔎 Open Chrome, search "GitHub", and make an account
+
+  📁 -- Create your first new repository
+
+╔══════════════════════════════════════════════════════════════════╗
+║                  👽👽 GIT INSTALLATION 👽👽                    ║
+╚══════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌐 DOWNLOAD GIT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🔍 -- open chrome search "git"
+
+  🌍 * visit official website for git
+
+  💾 * Click install for window / mac / linux
+        as system requirement
+
+  ▶️  --- then click on top below
+        ' click here to download the latest
+          (2.54.0) x64 version of Git for Window '
+
+
+          SECTION -2
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    👽👽 GIT SETUP 👽👽                            ║
+╚══════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚙️  SETUP CHECKLIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✅ Additional icon
+     (add on desktop - your choice as per need)
+
+  ✅ Use VS Code as git default editor
+
+  ✅ Choose main branch
+     "override the default branch name
+      for new repository"
+
+  ─────────────────────────────────────────────────────────────
+  🔵 DEFAULT ( no change required )
+  ─────────────────────────────────────────────────────────────
+
+  🔹 git from the command line and also from
+     3rd party software                        [default no change]
+
+  🔹 use bundled openSSH                       [default no change]
+
+  🔹 use the openSSL library                   [default no change]
+
+  🔹 checkout window-style, commit unix-style
+     line endings                              [default no change]
+
+  🔹 use minTTY
+     (the default terminal of msys2)           [default no change]
+
+  🔹 fast-forward or merge                     [default no change]
+
+  🔹 Git credential manager                    [default no change]
+
+  🔹 Enable file system caching                [default no change]
+
+╚══════════════════════════════════════════════════════════════════╝
+
+
+             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                                   SECTION -2 
+             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+╔══════════════════════════════════════════════════════════════════╗
+║              ***** CONNECT GITHUB TO VS CODE *****               ║
+╚══════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔗 STEPS TO CONNECT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  👤 -- Click profile logo then choose
+        " sign in to sync settings "
+
+  🐙 -- Then " sign in with GitHub "
+
+╔══════════════════════════════════════════════════════════════════╗
+║              ***** TERMINAL SETUP FOR GIT *****                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📌 REASON:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ➡️  Tell Git about the author's name and email.
+      After this, Git will save the commit.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💻 Open terminal in VS Code and type:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  (i)  $ git config --global user.name "put your name here"
+       ✅ -- then press enter
+
+  (ii) $ git config --global user.email "put your GitHub email here"
+       ✅ -- then press enter
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔍 For checking only:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  (if email shows in the terminal, then it's perfect ✅)
+
+  (i)  $ git config --global --list
+
+╚══════════════════════════════════════════════════════════════════╝
+
+
+
+             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                                    SECTION - 3
+             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+╔══════════════════════════════════════════════════════════════════╗
+║   🗂️ REPOSITORY INITIALISE IN VS CODE AND REMOTE ADDITION        ║
+╚══════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ Repository initialisation [Method - 1 : Through a command line]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  (i)  📁 Make a folder and open it in VS Code
+       [if you already have a folder, you do not need a new one]
+
+       💻 .. open VS Code terminal ..
+
+  (ii) $ git init
+       ✅ [Then press enter; after this the local repository is
+       initialized and .git folder created in your folder]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔗 Remote Addition [ Method - 1 ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  💻 .. USING COMMAND IN TERMINAL ..
+
+       $ git remote add <remote-name> <repository-url>
+
+  🔵 In general case you choose remote name is 'origin'
+     [press enter, don't include quotes; use spaces between
+      the name and URL]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🖥️  Remote Addition [ Method - 2 : Through GUI(Graphical user interface) ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  📍 -- In source control section --
+
+  (i)   ⋯  click on three dot choose ' remote '
+           -- click on ' add remote '
+  (ii)  🔗 -- then provide URL for 'HTTPS' for repository
+              then click enter
+  (iii) -- then provide remote name ' origin '
+           ["origin" general name choose as you wish]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 NOTES : WHY WE NEED REMOTE ADDITION ?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ➡️  -- for push our code in github [This is global repository]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 NOTES :
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🔍 How to check remote ?
+     -- $ git remote -v
+
+  ❌ How to remove remote ?
+     -- $ git remote remove <remote-name>
+        [only put the remote name; do not include quotes]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ Repository initialisation [ Method - 2 ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  💻 OPEN TERMINAL IN VS CODE TYPE TEXT ..
+
+  (i) $ git clone <provide url for repository>
+      ✅ [Don't put double quote only url then click enter]
+
+  📌 ⚠️  IMPORTANT NOTE: When using 'git clone', the remote is
+         AUTOMATICALLY ADDED as 'origin'.
+         You do NOT need to manually add the remote.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🖥️  [M-3] Repository initialize — GUI (Graphical user interface)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  (i)   🔵 Open VS Code and click the Source Control icon on the left.
+  (ii)  👉 Click the "Publish on GitHub" button.
+  (iii) 📝 Enter the repository name, choose privacy settings,
+            and confirm.
+  (iv)  ✅ VS Code will create the remote repo and add
+            'origin' automatically.
+
+╚══════════════════════════════════════════════════════════════════╝
+
+
+
+             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                                    SECTION - 4
+             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+             
+
+╔══════════════════════════════════════════════════════════════════╗
+║            🚀🚀🚀 CODE PUSH UP ON GITHUB 🚀🚀🚀               ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📌 NOTES: If I understand correctly, you initialize a repository
+   in VS Code and also add the remote URL and remote name, then
+   you'll be able to push code.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ METHOD - 1 : Using terminal command
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🔍 NOTES : your git status must be working tree clean
+       $ git status
+         (Used to check current state of your git repository)
+
+  ─────────────────────────────────────────────────────────────
+
+  (i)  $ git add .
+       ✅ [Click Enter - stages all changes and ready for commit]
+
+       📝 notes : for specific file want staged
+                  'git add fileName'
+
+  ─────────────────────────────────────────────────────────────
+
+  (ii) $ git commit -m "put some message for commit"
+       ✅ (Now it will ready for push)
+
+       📌 NOTES: -m means add a message to the commit
+
+  ─────────────────────────────────────────────────────────────
+
+  🔧 FINAL COMMAND (You must to have a remote)
+
+  (iii) $ git push -u <remote-name> <branch-name>
+        ▶️ [Use this command when first time push code in remote]
+
+        $ git push 
+        ▶️ (second time as usual)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️  NOTES: USE THIS WHEN YOU WANT TO AVOID SEPARATE
+           "git add ." COMMAND:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  (i)  $ git commit -a -m "put some message for commit"  📝
+       ✅ [Click Enter - -a stages all changed files
+          and commits them]
+
+  (ii) $ git push <remote-name> <branch-name>  ▶️
+       ✅ [Click Enter - Branch is usually "main", and
+          VS Code shows your current branch]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🖥️  METHOD - 2 : GUI based
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🔍 NOTES : your git status always must tree clean
+             then you will use these command, git pull first
+
+  ─────────────────────────────────────────────────────────────
+  📍 -- In Source Control Section --
+  ─────────────────────────────────────────────────────────────
+
+  ✅ Stage all files you want to push to GitHub
+
+  📝 Add a commit message
+
+  🔹 Click the "tick indication arrow" just above the commit,
+     then wait a few seconds
+
+                        -- OR --
+
+  🔹 Or directly click the commit section, add a message,
+     then sync the changes again
+
+  ▶️ Click the three dot on the right side of the indication,
+     choose "Push or Pull", then click "Push"
+     and wait a few seconds
+
+╚══════════════════════════════════════════════════════════════════╝
+

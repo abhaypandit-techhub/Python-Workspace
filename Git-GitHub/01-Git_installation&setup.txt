@@ -1,0 +1,60 @@
+╔══════════════════════════════════════════════════════════════════╗
+║                  👽👽 GIT INSTALLATION 👽👽                    ║
+╚══════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌐 DOWNLOAD GIT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🔍 -- open chrome search "git"
+
+  🌍 * visit official website for git
+
+  💾 * Click install for window / mac / linux
+        as system requirement
+
+  ▶️  --- then click on top below
+        ' click here to download the latest
+          (2.54.0) x64 version of Git for Window '
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    👽👽 GIT SETUP 👽👽                         ║
+╚══════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚙️  SETUP CHECKLIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✅ Additional icon
+     (add on desktop - your choice as per need)
+
+  ✅ Use VS Code as git default editor
+
+  ✅ Choose main branch
+     "override the default branch name
+      for new repository"
+
+  ─────────────────────────────────────────────────────────────
+  🔵 DEFAULT ( no change required )
+  ─────────────────────────────────────────────────────────────
+
+  🔹 git from the command line and also from
+     3rd party software                        [default no change]
+
+  🔹 use bundled openSSH                       [default no change]
+
+  🔹 use the openSSL library                   [default no change]
+
+  🔹 checkout window-style, commit unix-style
+     line endings                              [default no change]
+
+  🔹 use minTTY
+     (the default terminal of msys2)           [default no change]
+
+  🔹 fast-forward or merge                     [default no change]
+
+  🔹 Git credential manager                    [default no change]
+
+  🔹 Enable file system caching                [default no change]
+
+╚══════════════════════════════════════════════════════════════════╝

@@ -1,0 +1,83 @@
+╔══════════════════════════════════════════════════════════════════╗
+║            🚀🚀🚀 CODE PUSH UP ON GITHUB 🚀🚀🚀                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📌 NOTES: If I understand correctly, you initialize a repository
+   in VS Code and also add the remote URL and remote name, then
+   you'll be able to push code.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ METHOD - 1 : Using terminal command
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🔍 NOTES : your git status must be working tree clean
+       $ git status
+         (Used to check current state of your git repository)
+
+  ─────────────────────────────────────────────────────────────
+
+  (i)  $ git add .
+       ✅ [Click Enter - stages all changes and ready for commit]
+
+       📝 notes : for specific file want staged
+                  'git add fileName'
+
+  ─────────────────────────────────────────────────────────────
+
+  (ii) $ git commit -m "put some message for commit"
+       ✅ (Now it will ready for push)
+
+       📌 NOTES: -m means add a message to the commit
+
+  ─────────────────────────────────────────────────────────────
+
+  🔧 FINAL COMMAND (You must to have a remote)
+
+  (iii) $ git push -u <remote-name> <branch-name>
+        ▶️ [Use this command when first time push code in remote]
+
+        $ git push 
+        ▶️ (second time as usual)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️  NOTES: USE THIS WHEN YOU WANT TO AVOID SEPARATE
+           "git add ." COMMAND:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  (i)  $ git commit -a -m "put some message for commit"  📝
+       ✅ [Click Enter - -a stages all changed files
+          and commits them]
+
+  (ii) $ git push <remote-name> <branch-name>  ▶️
+       ✅ [Click Enter - Branch is usually "main", and
+          VS Code shows your current branch]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🖥️  METHOD - 2 : GUI based
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🔍 NOTES : your git status always must tree clean
+             then you will use these command, git pull first
+
+  ─────────────────────────────────────────────────────────────
+  📍 -- In Source Control Section --
+  ─────────────────────────────────────────────────────────────
+
+  ✅ Stage all files you want to push to GitHub
+
+  📝 Add a commit message
+
+  🔹 Click the "tick indication arrow" just above the commit,
+     then wait a few seconds
+
+                        -- OR --
+
+  🔹 Or directly click the commit section, add a message,
+     then sync the changes again
+
+  ▶️ Click the three dot on the right side of the indication,
+     choose "Push or Pull", then click "Push"
+     and wait a few seconds
+
+╚══════════════════════════════════════════════════════════════════╝
+

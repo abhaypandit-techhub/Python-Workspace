@@ -1,0 +1,86 @@
+╔══════════════════════════════════════════════════════════════════╗
+║   🗂️ REPOSITORY INITIALISE IN VS CODE AND REMOTE ADDITION        ║
+╚══════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ Repository initialisation [Method - 1 : Through a command line]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  (i)  📁 Make a folder and open it in VS Code
+       [if you already have a folder, you do not need a new one]
+
+       💻 .. open VS Code terminal ..
+
+  (ii) $ git init
+       ✅ [Then press enter; after this the local repository is
+       initialized and .git folder created in your folder]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔗 Remote Addition [ Method - 1 ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  💻 .. USING COMMAND IN TERMINAL ..
+
+       $ git remote add <remote-name> <repository-url>
+
+  🔵 In general case you choose remote name is 'origin'
+     [press enter, don't include quotes; use spaces between
+      the name and URL]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🖥️  Remote Addition [ Method - 2 : Through GUI(Graphical user interface) ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  📍 -- In source control section --
+
+  (i)   ⋯  click on three dot choose ' remote '
+           -- click on ' add remote '
+  (ii)  🔗 -- then provide URL for 'HTTPS' for repository
+              then click enter
+  (iii) -- then provide remote name ' origin '
+           ["origin" general name choose as you wish]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 NOTES : WHY WE NEED REMOTE ADDITION ?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ➡️  -- for push our code in github [This is global repository]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 NOTES :
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🔍 How to check remote ?
+     -- $ git remote -v
+
+  ❌ How to remove remote ?
+     -- $ git remote remove <remote-name>
+        [only put the remote name; do not include quotes]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ Repository initialisation [ Method - 2 ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  💻 OPEN TERMINAL IN VS CODE TYPE TEXT ..
+
+  (i) $ git clone <provide url for repository>
+      ✅ [Don't put double quote only url then click enter]
+
+  📌 ⚠️  IMPORTANT NOTE: When using 'git clone', the remote is
+         AUTOMATICALLY ADDED as 'origin'.
+         You do NOT need to manually add the remote.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🖥️  [M-3] Repository initialize — GUI (Graphical user interface)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  (i)   🔵 Open VS Code and click the Source Control icon on the left.
+  (ii)  👉 Click the "Publish on GitHub" button.
+  (iii) 📝 Enter the repository name, choose privacy settings,
+            and confirm.
+  (iv)  ✅ VS Code will create the remote repo and add
+            'origin' automatically.
+
+╚══════════════════════════════════════════════════════════════════╝
+
+                 

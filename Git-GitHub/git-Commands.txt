@@ -1,0 +1,42 @@
+📋--  git status (check file status)
+
+📝 Which files are modified
+✅ Which files are staged
+❓ Which files are untracked
+🌿 Current branch name
+⬆️⬇️ Whether your branch is ahead/behind remote
+
+
+🔢 -- git -v (tell me about git version)
+🚀 -- git init (initialise git repository with .git folder)
+📥 -- git clone <repository url> (create a copy of an existing repository)
+🔍 -- git diff (show what has changed in a file before staging)
+
+
+💡 Note: For a specific file's changes, replace . with fileName
+➕ -- git add . (stage all files and ready for commit)
+➕ -- git add filename (stage a specific file)
+
+
+💡 Note: If a file is staged after changes and you want to remove those changes:
+(i)  ↩️ git restore --staged . (move all files from staged to unstaged)
+(ii) 🔄 git restore . (restore all changes in unstaged files)
+
+
+💾 -- git commit -m "message for commit" (save to local repo with a message)
+📜 -- git log (show all commits with date and time)
+📄 -- git log --oneline (show commits in one line each)
+
+
+💡 Note: If a file is currently committed but you want to delete the last commit and also remove the last changes in the file:
+(i)  ⏪ git reset HEAD~1 (delete last commit and move staged files to unstaged)
+(ii) 🔄 git restore . (replace . with filename for a specific file)
+
+
+🌿 -- git branch (show all branches)
+🌱 -- git switch -c branchName (create a branch and switch to it)
+🔀 -- git switch branchName (switch to the given branch)
+              or 
+      git checkout branchName
+⚠️ Note: You cannot delete the currently active branch
+🗑️ -- git branch -d branchName (delete a branch)
