@@ -1,0 +1,38 @@
+
+
+                                     ****VIRTUAL ENVIRONMENT****
+
+NOTES: (i)Global Environment(globally anythings can be install system wide ,implement all over the project)
+(ii) virtual environment : project specific pakage can be manage, any version (that is fresh start)
+
+# HOW TO CREATE VIRTUAL ENVIRONMENT
+
+(i)  python -m venv virtualEnvironmentName
+example: python -m venv myenv  
+
+NOTES: wheever you writing virtual Environment Name a directory/folder create in your folder
+
+HOW TO ACTIVATE VIRTUAL ENVIRONMENT
+
+(i) .\virtualEnvironmentName\Scripts\Activate.PS1
+
+example: .\myenv\Scripts\Activate.PS1
+-- after this myenv directory activate and show in your terminal. 
+
+HOW TO deactivate
+
+(i) deactivate  (type in  terminal)
+
+-- after this current directory myenv shift to previous directory
+
+REQUIREMENT FILE GENERATING
+
+-- requirement.txt: List all the package of libraries for your project need
+-- That contain instal libraries 
+
+(i) pip freeze > requirements.txt
+
+-- Install all libraries from requirement.txt file contain libraries details with version
+
+THESE THINGS CAN BE Install IN NEW VIRTUAL ENVIRONMENT
+(i) pip freeze -r requirement.txt
